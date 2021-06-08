@@ -1,4 +1,4 @@
-baseURL: https://mirhasshugo.netlify.app/
+baseURL: "https://mirhasshugo.netlify.app/""
 languageCode: en-us
 title: Mir Hass
 theme: mediumish-gohugo-theme
