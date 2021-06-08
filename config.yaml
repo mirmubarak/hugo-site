@@ -1,15 +1,15 @@
-baseURL: https://example.com/
+baseURL: https://mirhasshugo.netlify.app/
 languageCode: en-us
-title: Mediumish
+title: Mir Hass
 theme: mediumish-gohugo-theme
 summaryLength: 25
 copyright: John Doe - All rights reserved
 enableEmoji: yes
 publishDir: docs
 params:
-  author:
-    description: Creator of this blog.
-    name: John Doe
+  author: Mir Hass
+    description: My R Musings.
+    name: Mir Hass
     thumbnail: /images/author.png
   description: the clean blog!
   index:
@@ -18,15 +18,15 @@ params:
       the blog will be about!\\\r\n**This textblock is a demonstration of the mdtext-param.**\\\r\n###
       This is a markdown heading\r\n"
     picture: /images/author.png
-    subtitle: I'm a unique placeholder. Working here and there!
+    subtitle: I'm trying learn Data Science with R! 
     title: John Doe
   logo: /images/logo.png
   social:
-    github: <username>
+    github: <mirmubarak>
     instagram: <username>
     linkedin: <username>
     medium: <username>
-    twitter: <username>
+    twitter: <@twitter>
     xing: <username>
 menu:
   main:
